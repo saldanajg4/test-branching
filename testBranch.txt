@@ -1,3 +1,5 @@
+<<<<<<<This will be added to master branch>>>>>>>>>>
+
 this is my original branch.  Later I need to create a new branch for new features
 
 Now I'm implementing changes in newFeatures branch this will not affect my master
