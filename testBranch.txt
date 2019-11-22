@@ -24,3 +24,5 @@ push changes to remote newFeatures branch for completion
 here is the fixing bug removing the head tag in the beginning of file
 
 adding more
+
+after I submitted this git push --set-upstream origin bugs, now just use git push
