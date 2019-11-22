@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 this is my original branch.  Later I need to create a new branch for new features.
 
 This is my bugFix branch.  In here I will fix code having issues.
 
 tesging adding more bug fixes
-=======
+
+
 <<<<<<<This will be added to master branch>>>>>>>>>>
 
 this is my original branch.  Later I need to create a new branch for new features
@@ -18,3 +19,7 @@ see this line 6 and 7 on text file.
 Awsome now I'm back implementing new features on local branch newFeatures later i 
 push changes to remote newFeatures branch for completion
 >>>>>>> newFeatures
+
+
+here is the fixing bug removing the head tag in the beginning of file
+
