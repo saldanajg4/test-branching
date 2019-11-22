@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 this is my original branch.  Later I need to create a new branch for new features.
 
 This is my bugFix branch.  In here I will fix code having issues.
 
 tesging adding more bug fixes
+=======
+<<<<<<<This will be added to master branch>>>>>>>>>>
+
+this is my original branch.  Later I need to create a new branch for new features
+
+Now I'm implementing changes in newFeatures branch this will not affect my master
+branch.
+
+Great!  Now i see the new changes in new features branch.  Now I should 
+see this line 6 and 7 on text file.
+
+Awsome now I'm back implementing new features on local branch newFeatures later i 
+push changes to remote newFeatures branch for completion
+>>>>>>> newFeatures
