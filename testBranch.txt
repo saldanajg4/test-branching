@@ -1,1 +1,3 @@
-this is my original branch.  Later I need to create a new branch for new features
+this is my original branch.  Later I need to create a new branch for new features.
+
+This is my bugFix branch.  In here I will fix code having issues.
