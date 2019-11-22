@@ -5,3 +5,6 @@ branch.
 
 Great!  Now i see the new changes in new features branch.  Now I should 
 see this line 6 and 7 on text file.
+
+Awsome now I'm back implementing new features on local branch newFeatures later i 
+push changes to remote newFeatures branch for completion
