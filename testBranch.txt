@@ -28,9 +28,16 @@ adding more
 after I submitted this git push --set-upstream origin bugs, now just use git push
 
 
+<<<<<<< HEAD
 Now I wll update testBranch using moduleOrganizer branch to modularize angular 
 project nov 26, 2019 @ 1:23pm
 
 I now have https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 sd reference for shorter push command into remote branch:
     git push -u origin moduleOrganizer
+=======
+dec 5 - testing more branching
+
+Now on dec 9, I will update file so i can make a pull request to see how it 
+works
+>>>>>>> b7e1cd26adaf5ffe4fbdfc2047d1c6e5ba742d5c
