@@ -45,3 +45,6 @@ works
 
 
   this is a new bug fix on Dec 9
+
+
+  now I'm adding a new msg to my bug fix for my second commit
