@@ -61,7 +61,6 @@ works
 =======
   now I'm adding a new msg to my bug fix for my second commit
 
-
   today is December 10, 2019 and now adding new msgs.  
   if remote branch does not exists do this:
 
