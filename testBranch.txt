@@ -45,3 +45,18 @@ works
 
 
   now I'm adding a new msg to my bug fix for my second commit
+
+
+  today is December 10, 2019 and now adding new msgs.  
+  if remote branch does not exists do this:
+
+  git push origin newFeatures
+  git commit -am "working on newFeatures"
+  git push --set-upstream origin newFeatures
+  git commit -am "continue adding more lines of code"
+  git push //now this branch is been setup to remote branch
+
+  //now merge changes from newFeatures into master
+  git checkout master
+  git merge newFeatures
+  git push
