@@ -50,6 +50,7 @@ works
   git commit -am "continue adding more lines of code"
   git push //now this branch is been setup to remote branch
 
+
   //now merge changes from newFeatures into master
   git checkout master
   git merge newFeatures
