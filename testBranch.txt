@@ -19,8 +19,6 @@ see this line 6 and 7 on text file.
 Awsome now I'm back implementing new features on local branch newFeatures later i 
 push changes to remote newFeatures branch for completion
 >>>>>>> newFeatures
-
-
 here is the fixing bug removing the head tag in the beginning of file
 
 adding more
@@ -51,14 +49,15 @@ works
 =======
 >>>>>>> newFeatures
   
-
-
   this is a new bug fix on Dec 9
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
   now I'm adding a new msg to my bug fix for my second commit
 =======
+=======
+>>>>>>> newFeatures
   now I'm adding a new msg to my bug fix for my second commit
 
   today is December 10, 2019 and now adding new msgs.  
