@@ -1,3 +1,11 @@
+
+this is my original branch.  Later I need to create a new branch for new features.
+
+This is my bugFix branch.  In here I will fix code having issues.
+
+tesging adding more bug fixes
+
+
 <<<<<<<This will be added to master branch>>>>>>>>>>
 
 this is my original branch.  Later I need to create a new branch for new features
@@ -10,3 +18,30 @@ see this line 6 and 7 on text file.
 
 Awsome now I'm back implementing new features on local branch newFeatures later i 
 push changes to remote newFeatures branch for completion
+>>>>>>> newFeatures
+
+
+here is the fixing bug removing the head tag in the beginning of file
+
+adding more
+
+after I submitted this git push --set-upstream origin bugs, now just use git push
+
+
+Now I wll update testBranch using moduleOrganizer branch to modularize angular 
+project nov 26, 2019 @ 1:23pm
+
+I now have https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+sd reference for shorter push command into remote branch:
+    git push -u origin moduleOrganizer
+dec 5 - testing more branching
+
+Now on dec 9, I will update file so i can make a pull request to see how it 
+works
+  
+
+
+  this is a new bug fix on Dec 9
+
+
+  now I'm adding a new msg to my bug fix for my second commit
