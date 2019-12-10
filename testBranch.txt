@@ -52,3 +52,6 @@ works
   git checkout master
   git merge newFeatures
   git push
+
+
+  this is added...
