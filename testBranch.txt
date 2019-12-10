@@ -29,22 +29,50 @@ after I submitted this git push --set-upstream origin bugs, now just use git pus
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> newFeatures
 Now I wll update testBranch using moduleOrganizer branch to modularize angular 
 project nov 26, 2019 @ 1:23pm
 
 I now have https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 sd reference for shorter push command into remote branch:
     git push -u origin moduleOrganizer
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> newFeatures
 dec 5 - testing more branching
 
 Now on dec 9, I will update file so i can make a pull request to see how it 
 works
+<<<<<<< HEAD
 >>>>>>> b7e1cd26adaf5ffe4fbdfc2047d1c6e5ba742d5c
+=======
+>>>>>>> newFeatures
   
 
 
   this is a new bug fix on Dec 9
 
 
+<<<<<<< HEAD
   now I'm adding a new msg to my bug fix for my second commit
+=======
+  now I'm adding a new msg to my bug fix for my second commit
+
+
+  today is December 10, 2019 and now adding new msgs.  
+  if remote branch does not exists do this:
+
+  git push origin newFeatures
+  git commit -am "working on newFeatures"
+  git push --set-upstream origin newFeatures
+  git commit -am "continue adding more lines of code"
+  git push //now this branch is been setup to remote branch
+
+  //now merge changes from newFeatures into master
+  git checkout master
+  git merge newFeatures
+  git push
+>>>>>>> newFeatures
