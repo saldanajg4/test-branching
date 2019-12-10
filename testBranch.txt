@@ -55,3 +55,5 @@ works
 
 
   this is added...
+
+  now I can proceed to update remote branch and continue merging into master
